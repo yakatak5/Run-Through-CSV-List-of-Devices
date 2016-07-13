@@ -20,3 +20,5 @@ for dicts in a:
 		#Adjust range to print out only exactly what is needed
 		
 #logs in and checks version for every address in csv file
+
+csvfile.close()
